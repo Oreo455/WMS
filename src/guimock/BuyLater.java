@@ -69,7 +69,7 @@ public class LandingPage extends javax.swing.JFrame {
         label6.setText("$500,109.98");
 
         label7.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
-        label7.setText("Qantity:");
+        label7.setText("Quantity:");
 
         label8.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
         label8.setText("Destination:");
@@ -77,7 +77,7 @@ public class LandingPage extends javax.swing.JFrame {
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Unassigned Portfolio" }));
 
         jTextField1.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField1.setText("20");
+        jTextField1.setText("13");
 
         label9.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
         label9.setText("Limit:");
@@ -139,7 +139,7 @@ public class LandingPage extends javax.swing.JFrame {
                                                 .addComponent(label9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                                 .addComponent(jTextField2, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)))))
-                                .addGap(0, 5, Short.MAX_VALUE))
+                                .addGap(0, 0, Short.MAX_VALUE))
                             .addGroup(layout.createSequentialGroup()
                                 .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)

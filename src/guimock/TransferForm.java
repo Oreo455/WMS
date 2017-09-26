@@ -55,7 +55,7 @@ public class LandingPage extends javax.swing.JFrame {
         jButton7.setText("Return");
 
         label7.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
-        label7.setText("Qantity:");
+        label7.setText("Quantity:");
 
         label8.setFont(new java.awt.Font("Dialog", 1, 18)); // NOI18N
         label8.setText("Destination:");
@@ -63,7 +63,7 @@ public class LandingPage extends javax.swing.JFrame {
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Risky Investments" }));
 
         jTextField1.setHorizontalAlignment(javax.swing.JTextField.CENTER);
-        jTextField1.setText("20");
+        jTextField1.setText("13");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
